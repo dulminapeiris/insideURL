@@ -8,7 +8,7 @@ xxxxxxxxxxxxx = """
 |__|___|  /____  >__\____ |\___  > |______/  |____|_  /_______ 
 """
 
-print('A Open Source Project Developed by Sajiya')
+print('A Open Source Project Developed by Dulmina Peiris')
 
 def search_urls_with_keyword(keyword, site, num_results):
     query = f"inurl:{site} {keyword}"
@@ -30,7 +30,7 @@ def main():
     for url in urls:
         print(url)
     
-    print("\n\033[2mA proud open source security project by Sajiya\033[0m") 
+    print("\n\033[2mA proud open source security project by Dulmina Peiris\033[0m") 
 
 if __name__ == "__main__":
     main()
