@@ -24,6 +24,4 @@ Follow the Prompts:
     Enter the keyword to search for in the URL.
     Enter the number of results to fetch.
 
-View Results:
-
-    InsideURL will perform a Google search and display the URLs found matching your criteria.
+!!View Results!!!
