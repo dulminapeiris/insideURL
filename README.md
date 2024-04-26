@@ -5,16 +5,19 @@ Usage Guide:
     Clone the Repository:
 
     bash
-
-git clone https://github.com/dulminapeiris/insideurl.git
+    git clone https://github.com/dulminapeiris/insideurl.git
 
 Install Dependencies:
 
-pip install -r requirements.txt
+
+    bash
+    pip install -r requirements.txt
 
 Run InsideURL:
 
-python insideurl.py
+    bash
+    python insideurl.py
+
 
 Follow the Prompts:
 
