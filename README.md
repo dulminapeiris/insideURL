@@ -1,21 +1,20 @@
 # InsideURL - Python Tool for Searching URLs with Specific Keywords #
 
 Usage Guide:
+ 
+   Clone the Repository:
 
-    Clone the Repository:
-
-    bash
     git clone https://github.com/dulminapeiris/insideurl.git
 
 Install Dependencies:
 
 
-    bash
+    cd insideurl
     pip install -r requirements.txt
 
 Run InsideURL:
 
-    bash
+
     python insideurl.py
 
 
